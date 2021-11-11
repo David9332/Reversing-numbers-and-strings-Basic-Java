@@ -14,7 +14,7 @@ public class Targil {
         }
 
         for ( int i=0 ; i <= letters.length-1 ; i+=1){
-            System.out.print(letters[i]);
+            System.out.print(letters[i])
         }
     }
 
